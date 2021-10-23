@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EjemplilloRetrofit</string>
+    <string name="name">Name of the person</string>
+    <string name="get_person">GET PERSON</string>
+</resources>
